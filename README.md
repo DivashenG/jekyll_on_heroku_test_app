@@ -2,7 +2,6 @@
 POC to test deploying a Jekyll App to Heroku
 
 # Steps
-___
 ## 1. Make a Jekyll blog
 ```
 gem install jekyll
