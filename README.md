@@ -83,5 +83,5 @@ git push heroku master
 heroku open
 ```
 
-[1] Guide compiled using: 
+[1]: Guide compiled using: 
 https://www.clairecodes.com/blog/2015-09-20-deploying-jekyll-on-heroku/
