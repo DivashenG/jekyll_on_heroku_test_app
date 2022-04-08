@@ -1,5 +1,5 @@
 # Jekyll on Heroku Test App
-POC to test deploying a Jekyll App to Heroku
+POC to test deploying a (Jekyll)[https://jekyllrb.com] App to Heroku
 
 # Steps
 ## 1. Make a Jekyll blog
